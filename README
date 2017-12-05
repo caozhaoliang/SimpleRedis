@@ -1,0 +1,2 @@
+
+g++ main.cpp multiRedis.cpp -o testRedsi -g -I ../../3rd-soft/include/ -L ../../3rd-soft/lib64/ -lhiredis
